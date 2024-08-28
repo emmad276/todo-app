@@ -11,3 +11,9 @@ This project is a simple command-line To-Do application built using Python. The 
 - **Remove Tasks:** Remove tasks from the list by their index.
 - **Dockerized:** The application runs in a Docker container, ensuring a consistent environment.
 - **DevContainer Setup:** Optimized for development in Visual Studio Code using DevContainer.
+
+## Prerequisites
+
+- **Docker:** Ensure Docker is installed on your machine.
+- **Visual Studio Code:** Install VS Code for an integrated development experience.
+- **DevContainer Extension:** Install the Remote - Containers extension in VS Code.
